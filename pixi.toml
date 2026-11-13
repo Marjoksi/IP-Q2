@@ -1,0 +1,11 @@
+[workspace]
+authors = ["''Marjoksi'' <''M.A.M.N.elyas@student.tudelft.nl''>"]
+channels = ["conda-forge"]
+name = "IP-Q2"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+nbformat = ">=5.11.1,<6"
